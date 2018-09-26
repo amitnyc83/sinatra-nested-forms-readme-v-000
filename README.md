@@ -16,7 +16,7 @@ In this lesson, we'll cover nested forms that can create multiple objects.
 
 ## Forms That Create Multiple Objects
 
-In web apps, we use forms to create objects. When you fill out a form for a
+In web applications, we use forms to create objects. When you fill out a form for a
 dinner reservation on Open Table, you're creating a reservation object. When you
 upload a photo to Instagram, you're creating an image object.
 
